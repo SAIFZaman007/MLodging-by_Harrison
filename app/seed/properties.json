@@ -1,0 +1,1487 @@
+[
+  {
+    "address": "2606 Springwood Dr",
+    "slug": "2606-springwood-dr",
+    "listing_id": "8888-2606S",
+    "title": "Springwood Golf Masters 8888",
+    "capacity": "12 guests / 4 bedrooms / 7 beds / 4 baths",
+    "guests": 12,
+    "bedrooms": 4,
+    "baths": 4,
+    "rating": null,
+    "reviews": null,
+    "price": 40855,
+    "airbnb": "https://www.airbnb.com/rooms/1492309577511631345",
+    "walking_cluster": false,
+    "large_group": true,
+    "hero_image": "assets/galleries/2606-springwood-dr/02-1400.webp",
+    "thumb_image": "assets/galleries/2606-springwood-dr/02-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2606-springwood-dr/02-800.webp",
+        "hero": "assets/galleries/2606-springwood-dr/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2606-springwood-dr/01-800.webp",
+        "hero": "assets/galleries/2606-springwood-dr/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2606-springwood-dr/03-800.webp",
+        "hero": "assets/galleries/2606-springwood-dr/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2606-springwood-dr/04-800.webp",
+        "hero": "assets/galleries/2606-springwood-dr/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2606-springwood-dr/05-800.webp",
+        "hero": "assets/galleries/2606-springwood-dr/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2606-springwood-dr/06-800.webp",
+        "hero": "assets/galleries/2606-springwood-dr/06-1400.webp"
+      }
+    ],
+    "image_count": 6,
+    "tags": [
+      "12+ guests",
+      "Near course"
+    ],
+    "lat": 33.5195369,
+    "lon": -82.0206132,
+    "geocoded_as": null,
+    "miles_to_angc": 1.18
+  },
+  {
+    "address": "1204 Magnolia Dr",
+    "slug": "1204-magnolia-dr",
+    "listing_id": "8888-1204M",
+    "title": "7B4B Masters Golf Magnolia Dr. 8888",
+    "capacity": "14 guests / 4 bedrooms / 7 beds / 4 baths",
+    "guests": 14,
+    "bedrooms": 4,
+    "baths": 4,
+    "rating": 5,
+    "reviews": 17,
+    "price": 37077,
+    "airbnb": "https://www.airbnb.com/rooms/579333603072743579",
+    "walking_cluster": true,
+    "large_group": true,
+    "hero_image": "assets/galleries/1204-magnolia-dr/01-1400.webp",
+    "thumb_image": "assets/galleries/1204-magnolia-dr/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/1204-magnolia-dr/01-800.webp",
+        "hero": "assets/galleries/1204-magnolia-dr/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1204-magnolia-dr/02-800.webp",
+        "hero": "assets/galleries/1204-magnolia-dr/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1204-magnolia-dr/03-800.webp",
+        "hero": "assets/galleries/1204-magnolia-dr/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1204-magnolia-dr/04-800.webp",
+        "hero": "assets/galleries/1204-magnolia-dr/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1204-magnolia-dr/05-800.webp",
+        "hero": "assets/galleries/1204-magnolia-dr/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1204-magnolia-dr/06-800.webp",
+        "hero": "assets/galleries/1204-magnolia-dr/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1204-magnolia-dr/07-800.webp",
+        "hero": "assets/galleries/1204-magnolia-dr/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1204-magnolia-dr/08-800.webp",
+        "hero": "assets/galleries/1204-magnolia-dr/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "12+ guests",
+      "Near course",
+      "\u2605 5"
+    ],
+    "lat": 33.5120396,
+    "lon": -82.0128889,
+    "geocoded_as": null,
+    "miles_to_angc": 0.83
+  },
+  {
+    "address": "2502 Gaines Ct N",
+    "slug": "2502-gaines-ct-n",
+    "listing_id": "8888-2502G",
+    "title": "Gaines Ct N & Eisenhower Masters",
+    "capacity": "14 guests / 4 bedrooms / 8 beds / 5 baths",
+    "guests": 14,
+    "bedrooms": 4,
+    "baths": 5,
+    "rating": 5,
+    "reviews": 2,
+    "price": 35148,
+    "airbnb": "https://www.airbnb.com/rooms/1426880794228846021",
+    "walking_cluster": true,
+    "large_group": true,
+    "hero_image": "assets/galleries/2502-gaines-ct-n/01-1400.webp",
+    "thumb_image": "assets/galleries/2502-gaines-ct-n/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2502-gaines-ct-n/01-800.webp",
+        "hero": "assets/galleries/2502-gaines-ct-n/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2502-gaines-ct-n/02-800.webp",
+        "hero": "assets/galleries/2502-gaines-ct-n/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2502-gaines-ct-n/03-800.webp",
+        "hero": "assets/galleries/2502-gaines-ct-n/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2502-gaines-ct-n/04-800.webp",
+        "hero": "assets/galleries/2502-gaines-ct-n/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2502-gaines-ct-n/05-800.webp",
+        "hero": "assets/galleries/2502-gaines-ct-n/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2502-gaines-ct-n/06-800.webp",
+        "hero": "assets/galleries/2502-gaines-ct-n/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2502-gaines-ct-n/07-800.webp",
+        "hero": "assets/galleries/2502-gaines-ct-n/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2502-gaines-ct-n/08-800.webp",
+        "hero": "assets/galleries/2502-gaines-ct-n/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "12+ guests",
+      "Near course",
+      "\u2605 5"
+    ],
+    "lat": 33.5077079,
+    "lon": -82.0147479,
+    "geocoded_as": null,
+    "miles_to_angc": 0.53
+  },
+  {
+    "address": "912 Eisenhower Dr",
+    "slug": "912-eisenhower-dr",
+    "listing_id": "8888-912EI",
+    "title": "Eisenhower and Gaines Court",
+    "capacity": "12 guests / 4 bedrooms / 7 beds / 4 baths",
+    "guests": 12,
+    "bedrooms": 4,
+    "baths": 4,
+    "rating": null,
+    "reviews": null,
+    "price": 33608,
+    "airbnb": "https://www.airbnb.com/rooms/1492294701158913890",
+    "walking_cluster": true,
+    "large_group": true,
+    "hero_image": "assets/galleries/912-eisenhower-dr/02-1400.webp",
+    "thumb_image": "assets/galleries/912-eisenhower-dr/02-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/912-eisenhower-dr/02-800.webp",
+        "hero": "assets/galleries/912-eisenhower-dr/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/912-eisenhower-dr/01-800.webp",
+        "hero": "assets/galleries/912-eisenhower-dr/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/912-eisenhower-dr/03-800.webp",
+        "hero": "assets/galleries/912-eisenhower-dr/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/912-eisenhower-dr/04-800.webp",
+        "hero": "assets/galleries/912-eisenhower-dr/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/912-eisenhower-dr/05-800.webp",
+        "hero": "assets/galleries/912-eisenhower-dr/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/912-eisenhower-dr/06-800.webp",
+        "hero": "assets/galleries/912-eisenhower-dr/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/912-eisenhower-dr/07-800.webp",
+        "hero": "assets/galleries/912-eisenhower-dr/07-1400.webp"
+      }
+    ],
+    "image_count": 7,
+    "tags": [
+      "Walking cluster",
+      "12+ guests",
+      "Near course"
+    ],
+    "lat": 33.507759,
+    "lon": -82.014401,
+    "geocoded_as": null,
+    "miles_to_angc": 0.55
+  },
+  {
+    "address": "1036 Brookwood Dr",
+    "slug": "1036-brookwood-dr",
+    "listing_id": "8888-1036B",
+    "title": "9B5B Masters,National hills 8888 Brookwood",
+    "capacity": "14 guests / 5 bedrooms / 9 beds / 5 baths",
+    "guests": 14,
+    "bedrooms": 5,
+    "baths": 5,
+    "rating": 4.91,
+    "reviews": 23,
+    "price": 30854,
+    "airbnb": "https://www.airbnb.com/rooms/718303057661865249",
+    "walking_cluster": false,
+    "large_group": true,
+    "hero_image": "assets/galleries/1036-brookwood-dr/01-1400.webp",
+    "thumb_image": "assets/galleries/1036-brookwood-dr/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/1036-brookwood-dr/01-800.webp",
+        "hero": "assets/galleries/1036-brookwood-dr/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1036-brookwood-dr/02-800.webp",
+        "hero": "assets/galleries/1036-brookwood-dr/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1036-brookwood-dr/03-800.webp",
+        "hero": "assets/galleries/1036-brookwood-dr/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1036-brookwood-dr/04-800.webp",
+        "hero": "assets/galleries/1036-brookwood-dr/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1036-brookwood-dr/05-800.webp",
+        "hero": "assets/galleries/1036-brookwood-dr/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1036-brookwood-dr/06-800.webp",
+        "hero": "assets/galleries/1036-brookwood-dr/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1036-brookwood-dr/07-800.webp",
+        "hero": "assets/galleries/1036-brookwood-dr/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1036-brookwood-dr/08-800.webp",
+        "hero": "assets/galleries/1036-brookwood-dr/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "12+ guests",
+      "Near course",
+      "\u2605 4.91"
+    ],
+    "lat": 33.5118116,
+    "lon": -82.0233632,
+    "geocoded_as": null,
+    "miles_to_angc": 0.66
+  },
+  {
+    "address": "921 Avocado St",
+    "slug": "921-avocado-st",
+    "listing_id": "8888-921AV",
+    "title": "11B5B Eisenhower & Apricot, 8minWalk  Masters 8888",
+    "capacity": "14 guests / 6 bedrooms / 1 beds / 5 baths",
+    "guests": 14,
+    "bedrooms": 6,
+    "baths": 5,
+    "rating": 4.96,
+    "reviews": 28,
+    "price": 30583,
+    "airbnb": "https://www.airbnb.com/rooms/1072408858109122105",
+    "walking_cluster": true,
+    "large_group": true,
+    "hero_image": "assets/galleries/921-avocado-st/01-1400.webp",
+    "thumb_image": "assets/galleries/921-avocado-st/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/921-avocado-st/01-800.webp",
+        "hero": "assets/galleries/921-avocado-st/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/921-avocado-st/02-800.webp",
+        "hero": "assets/galleries/921-avocado-st/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/921-avocado-st/03-800.webp",
+        "hero": "assets/galleries/921-avocado-st/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/921-avocado-st/04-800.webp",
+        "hero": "assets/galleries/921-avocado-st/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/921-avocado-st/05-800.webp",
+        "hero": "assets/galleries/921-avocado-st/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/921-avocado-st/06-800.webp",
+        "hero": "assets/galleries/921-avocado-st/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/921-avocado-st/07-800.webp",
+        "hero": "assets/galleries/921-avocado-st/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/921-avocado-st/08-800.webp",
+        "hero": "assets/galleries/921-avocado-st/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "12+ guests",
+      "Near course",
+      "\u2605 4.96"
+    ],
+    "lat": 33.5085092,
+    "lon": -82.0125913,
+    "geocoded_as": null,
+    "miles_to_angc": 0.66
+  },
+  {
+    "address": "2442 Riverlook Dr",
+    "slug": "2442-riverlook-dr",
+    "listing_id": "8888-2442R",
+    "title": "8B5B Masters Golf 8888 Riverlook",
+    "capacity": "14 guests / 4 bedrooms / 8 beds / 5 baths",
+    "guests": 14,
+    "bedrooms": 4,
+    "baths": 5,
+    "rating": 4.91,
+    "reviews": 35,
+    "price": 30231,
+    "airbnb": "https://www.airbnb.com/rooms/579859006117248823",
+    "walking_cluster": false,
+    "large_group": true,
+    "hero_image": "assets/galleries/2442-riverlook-dr/01-1400.webp",
+    "thumb_image": "assets/galleries/2442-riverlook-dr/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2442-riverlook-dr/01-800.webp",
+        "hero": "assets/galleries/2442-riverlook-dr/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2442-riverlook-dr/02-800.webp",
+        "hero": "assets/galleries/2442-riverlook-dr/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2442-riverlook-dr/03-800.webp",
+        "hero": "assets/galleries/2442-riverlook-dr/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2442-riverlook-dr/04-800.webp",
+        "hero": "assets/galleries/2442-riverlook-dr/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2442-riverlook-dr/05-800.webp",
+        "hero": "assets/galleries/2442-riverlook-dr/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2442-riverlook-dr/06-800.webp",
+        "hero": "assets/galleries/2442-riverlook-dr/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2442-riverlook-dr/07-800.webp",
+        "hero": "assets/galleries/2442-riverlook-dr/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2442-riverlook-dr/08-800.webp",
+        "hero": "assets/galleries/2442-riverlook-dr/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "12+ guests",
+      "Near course",
+      "\u2605 4.91"
+    ],
+    "lat": 33.50660358636364,
+    "lon": -82.01756192727274,
+    "geocoded_as": null,
+    "lat_estimated": true
+  },
+  {
+    "address": "908 Bluebird Rd",
+    "slug": "908-bluebird-rd",
+    "listing_id": "8888-908BL",
+    "title": "7B3B Masters GOLF bluebird 8888 Ironman",
+    "capacity": "14 guests / 4 bedrooms / 8 beds / 3 baths",
+    "guests": 14,
+    "bedrooms": 4,
+    "baths": 3,
+    "rating": 4.86,
+    "reviews": 14,
+    "price": 29819,
+    "airbnb": "https://www.airbnb.com/rooms/920455461158253014",
+    "walking_cluster": false,
+    "large_group": true,
+    "hero_image": "assets/galleries/908-bluebird-rd/04-1400.webp",
+    "thumb_image": "assets/galleries/908-bluebird-rd/04-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/908-bluebird-rd/04-800.webp",
+        "hero": "assets/galleries/908-bluebird-rd/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/908-bluebird-rd/01-800.webp",
+        "hero": "assets/galleries/908-bluebird-rd/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/908-bluebird-rd/02-800.webp",
+        "hero": "assets/galleries/908-bluebird-rd/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/908-bluebird-rd/03-800.webp",
+        "hero": "assets/galleries/908-bluebird-rd/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/908-bluebird-rd/05-800.webp",
+        "hero": "assets/galleries/908-bluebird-rd/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/908-bluebird-rd/06-800.webp",
+        "hero": "assets/galleries/908-bluebird-rd/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/908-bluebird-rd/07-800.webp",
+        "hero": "assets/galleries/908-bluebird-rd/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/908-bluebird-rd/08-800.webp",
+        "hero": "assets/galleries/908-bluebird-rd/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "12+ guests",
+      "Near course",
+      "\u2605 4.86"
+    ],
+    "lat": 33.5040992,
+    "lon": -82.0079183,
+    "geocoded_as": null,
+    "miles_to_angc": 0.79
+  },
+  {
+    "address": "1116 Glenwood Dr",
+    "slug": "1116-glenwood-dr",
+    "listing_id": "8888-1116G",
+    "title": "7B4B MastersGolf Walk Glenwood 8888 4 Bathrooms",
+    "capacity": "14 guests / 4 bedrooms / 7 beds / 4 baths",
+    "guests": 14,
+    "bedrooms": 4,
+    "baths": 4,
+    "rating": 4.91,
+    "reviews": 58,
+    "price": 29814,
+    "airbnb": "https://www.airbnb.com/rooms/18026283",
+    "walking_cluster": true,
+    "large_group": true,
+    "hero_image": "assets/galleries/1116-glenwood-dr/01-1400.webp",
+    "thumb_image": "assets/galleries/1116-glenwood-dr/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/1116-glenwood-dr/01-800.webp",
+        "hero": "assets/galleries/1116-glenwood-dr/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1116-glenwood-dr/02-800.webp",
+        "hero": "assets/galleries/1116-glenwood-dr/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1116-glenwood-dr/03-800.webp",
+        "hero": "assets/galleries/1116-glenwood-dr/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1116-glenwood-dr/04-800.webp",
+        "hero": "assets/galleries/1116-glenwood-dr/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1116-glenwood-dr/05-800.webp",
+        "hero": "assets/galleries/1116-glenwood-dr/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1116-glenwood-dr/06-800.webp",
+        "hero": "assets/galleries/1116-glenwood-dr/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1116-glenwood-dr/07-800.webp",
+        "hero": "assets/galleries/1116-glenwood-dr/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1116-glenwood-dr/08-800.webp",
+        "hero": "assets/galleries/1116-glenwood-dr/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "12+ guests",
+      "Near course",
+      "\u2605 4.91"
+    ],
+    "lat": 33.5106928,
+    "lon": -82.0167823,
+    "geocoded_as": null,
+    "miles_to_angc": 0.63
+  },
+  {
+    "address": "1125 Eisenhower Ct N",
+    "slug": "1125-eisenhower-ct-n",
+    "listing_id": "8888-1125E",
+    "title": "6B5B EisenhowerCT N Masters 8888",
+    "capacity": "10 guests / 5 bedrooms / 6 beds / 5 baths",
+    "guests": 10,
+    "bedrooms": 5,
+    "baths": 5,
+    "rating": 4.86,
+    "reviews": 7,
+    "price": 29814,
+    "airbnb": "https://www.airbnb.com/rooms/1403692764873362835",
+    "walking_cluster": true,
+    "large_group": false,
+    "hero_image": "assets/galleries/1125-eisenhower-ct-n/01-1400.webp",
+    "thumb_image": "assets/galleries/1125-eisenhower-ct-n/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/1125-eisenhower-ct-n/01-800.webp",
+        "hero": "assets/galleries/1125-eisenhower-ct-n/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1125-eisenhower-ct-n/02-800.webp",
+        "hero": "assets/galleries/1125-eisenhower-ct-n/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1125-eisenhower-ct-n/03-800.webp",
+        "hero": "assets/galleries/1125-eisenhower-ct-n/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1125-eisenhower-ct-n/04-800.webp",
+        "hero": "assets/galleries/1125-eisenhower-ct-n/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1125-eisenhower-ct-n/05-800.webp",
+        "hero": "assets/galleries/1125-eisenhower-ct-n/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1125-eisenhower-ct-n/06-800.webp",
+        "hero": "assets/galleries/1125-eisenhower-ct-n/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1125-eisenhower-ct-n/07-800.webp",
+        "hero": "assets/galleries/1125-eisenhower-ct-n/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1125-eisenhower-ct-n/08-800.webp",
+        "hero": "assets/galleries/1125-eisenhower-ct-n/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "Near course",
+      "\u2605 4.86"
+    ],
+    "lat": 33.5102861,
+    "lon": -82.013017,
+    "geocoded_as": null,
+    "miles_to_angc": 0.73
+  },
+  {
+    "address": "2504 Gaines Ct N",
+    "slug": "2504-gaines-ct-n",
+    "listing_id": "8888-2504G",
+    "title": "Masters Gaines Court N 7Bd 5Ba",
+    "capacity": "14 guests / 5 bedrooms / 7 beds / 6 baths",
+    "guests": 14,
+    "bedrooms": 5,
+    "baths": 6,
+    "rating": 5,
+    "reviews": 4,
+    "price": 29723,
+    "airbnb": "https://www.airbnb.com/rooms/1315575041162241114",
+    "walking_cluster": true,
+    "large_group": true,
+    "hero_image": "assets/galleries/2504-gaines-ct-n/04-1400.webp",
+    "thumb_image": "assets/galleries/2504-gaines-ct-n/04-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2504-gaines-ct-n/04-800.webp",
+        "hero": "assets/galleries/2504-gaines-ct-n/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2504-gaines-ct-n/01-800.webp",
+        "hero": "assets/galleries/2504-gaines-ct-n/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2504-gaines-ct-n/02-800.webp",
+        "hero": "assets/galleries/2504-gaines-ct-n/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2504-gaines-ct-n/03-800.webp",
+        "hero": "assets/galleries/2504-gaines-ct-n/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2504-gaines-ct-n/05-800.webp",
+        "hero": "assets/galleries/2504-gaines-ct-n/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2504-gaines-ct-n/06-800.webp",
+        "hero": "assets/galleries/2504-gaines-ct-n/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2504-gaines-ct-n/07-800.webp",
+        "hero": "assets/galleries/2504-gaines-ct-n/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2504-gaines-ct-n/08-800.webp",
+        "hero": "assets/galleries/2504-gaines-ct-n/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "12+ guests",
+      "Near course",
+      "\u2605 5"
+    ],
+    "lat": 33.5077109,
+    "lon": -82.0147537,
+    "geocoded_as": null,
+    "miles_to_angc": 0.53
+  },
+  {
+    "address": "2437 Apricot Ln",
+    "slug": "2437-apricot-ln",
+    "listing_id": "8888-2437A",
+    "title": "Masters Golf 10B5B Apricot 8888",
+    "capacity": "",
+    "guests": 14,
+    "bedrooms": 10,
+    "baths": 5,
+    "rating": 4.79,
+    "reviews": 76,
+    "price": 26788,
+    "airbnb": "https://www.airbnb.com/rooms/28492616",
+    "walking_cluster": true,
+    "large_group": true,
+    "hero_image": "assets/galleries/2437-apricot-ln/01-1400.webp",
+    "thumb_image": "assets/galleries/2437-apricot-ln/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2437-apricot-ln/01-800.webp",
+        "hero": "assets/galleries/2437-apricot-ln/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2437-apricot-ln/02-800.webp",
+        "hero": "assets/galleries/2437-apricot-ln/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2437-apricot-ln/03-800.webp",
+        "hero": "assets/galleries/2437-apricot-ln/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2437-apricot-ln/04-800.webp",
+        "hero": "assets/galleries/2437-apricot-ln/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2437-apricot-ln/05-800.webp",
+        "hero": "assets/galleries/2437-apricot-ln/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2437-apricot-ln/06-800.webp",
+        "hero": "assets/galleries/2437-apricot-ln/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2437-apricot-ln/07-800.webp",
+        "hero": "assets/galleries/2437-apricot-ln/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2437-apricot-ln/08-800.webp",
+        "hero": "assets/galleries/2437-apricot-ln/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "12+ guests",
+      "Near course",
+      "\u2605 4.79"
+    ],
+    "lat": 33.5071514,
+    "lon": -82.0117097,
+    "geocoded_as": null,
+    "miles_to_angc": 0.65
+  },
+  {
+    "address": "1105 Azalea Dr",
+    "slug": "1105-azalea-dr",
+    "listing_id": "8888-1105A",
+    "title": "5 bedrooms+7 queen beds+4 bathrooms",
+    "capacity": "14 guests / 5 bedrooms / 7 beds / 4 baths",
+    "guests": 14,
+    "bedrooms": 5,
+    "baths": 4,
+    "rating": 4.93,
+    "reviews": 99,
+    "price": 26778,
+    "airbnb": "https://www.airbnb.com/rooms/674774157748923474",
+    "walking_cluster": true,
+    "large_group": true,
+    "hero_image": "assets/galleries/1105-azalea-dr/01-1400.webp",
+    "thumb_image": "assets/galleries/1105-azalea-dr/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/1105-azalea-dr/01-800.webp",
+        "hero": "assets/galleries/1105-azalea-dr/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1105-azalea-dr/02-800.webp",
+        "hero": "assets/galleries/1105-azalea-dr/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1105-azalea-dr/03-800.webp",
+        "hero": "assets/galleries/1105-azalea-dr/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1105-azalea-dr/04-800.webp",
+        "hero": "assets/galleries/1105-azalea-dr/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1105-azalea-dr/05-800.webp",
+        "hero": "assets/galleries/1105-azalea-dr/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1105-azalea-dr/06-800.webp",
+        "hero": "assets/galleries/1105-azalea-dr/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1105-azalea-dr/07-800.webp",
+        "hero": "assets/galleries/1105-azalea-dr/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1105-azalea-dr/08-800.webp",
+        "hero": "assets/galleries/1105-azalea-dr/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "12+ guests",
+      "Near course",
+      "\u2605 4.93"
+    ],
+    "lat": 33.5099873,
+    "lon": -82.0163967,
+    "geocoded_as": null,
+    "miles_to_angc": 0.6
+  },
+  {
+    "address": "2412 Apricot Ln",
+    "slug": "2412-apricot-ln",
+    "listing_id": "8888-2412A",
+    "title": "4B3B 7Q Beds Apricot Ln Masters",
+    "capacity": "10 guests / 4 bedrooms / 7 beds / 3 baths",
+    "guests": 10,
+    "bedrooms": 4,
+    "baths": 3,
+    "rating": null,
+    "reviews": null,
+    "price": 26778,
+    "airbnb": "https://www.airbnb.com/rooms/1403700206749704490",
+    "walking_cluster": true,
+    "large_group": false,
+    "hero_image": "assets/galleries/2412-apricot-ln/01-1400.webp",
+    "thumb_image": "assets/galleries/2412-apricot-ln/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2412-apricot-ln/01-800.webp",
+        "hero": "assets/galleries/2412-apricot-ln/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2412-apricot-ln/02-800.webp",
+        "hero": "assets/galleries/2412-apricot-ln/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2412-apricot-ln/03-800.webp",
+        "hero": "assets/galleries/2412-apricot-ln/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2412-apricot-ln/04-800.webp",
+        "hero": "assets/galleries/2412-apricot-ln/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2412-apricot-ln/05-800.webp",
+        "hero": "assets/galleries/2412-apricot-ln/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2412-apricot-ln/06-800.webp",
+        "hero": "assets/galleries/2412-apricot-ln/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2412-apricot-ln/07-800.webp",
+        "hero": "assets/galleries/2412-apricot-ln/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2412-apricot-ln/08-800.webp",
+        "hero": "assets/galleries/2412-apricot-ln/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "Near course"
+    ],
+    "lat": 33.5061241,
+    "lon": -82.0093951,
+    "geocoded_as": null,
+    "miles_to_angc": 0.74
+  },
+  {
+    "address": "2610 Apricot Ln",
+    "slug": "2610-apricot-ln",
+    "listing_id": "8888-2610A",
+    "title": "Masters Golf 6B4B Apricot 8888",
+    "capacity": "10 guests / 4 bedrooms / 6 beds / 4 baths",
+    "guests": 10,
+    "bedrooms": 4,
+    "baths": 4,
+    "rating": 4.99,
+    "reviews": 78,
+    "price": 26778,
+    "airbnb": "https://www.airbnb.com/rooms/46604090",
+    "walking_cluster": true,
+    "large_group": false,
+    "hero_image": "assets/galleries/2610-apricot-ln/01-1400.webp",
+    "thumb_image": "assets/galleries/2610-apricot-ln/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2610-apricot-ln/01-800.webp",
+        "hero": "assets/galleries/2610-apricot-ln/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2610-apricot-ln/02-800.webp",
+        "hero": "assets/galleries/2610-apricot-ln/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2610-apricot-ln/03-800.webp",
+        "hero": "assets/galleries/2610-apricot-ln/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2610-apricot-ln/04-800.webp",
+        "hero": "assets/galleries/2610-apricot-ln/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2610-apricot-ln/05-800.webp",
+        "hero": "assets/galleries/2610-apricot-ln/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2610-apricot-ln/06-800.webp",
+        "hero": "assets/galleries/2610-apricot-ln/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2610-apricot-ln/07-800.webp",
+        "hero": "assets/galleries/2610-apricot-ln/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2610-apricot-ln/08-800.webp",
+        "hero": "assets/galleries/2610-apricot-ln/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "Near course",
+      "\u2605 4.99"
+    ],
+    "lat": 33.510631,
+    "lon": -82.018211,
+    "geocoded_as": null,
+    "miles_to_angc": 0.6
+  },
+  {
+    "address": "2402 Wilkshire Dr",
+    "slug": "2402-wilkshire-dr",
+    "listing_id": "8888-2402W",
+    "title": "Masters, Nike peach jam,4bdrm, 3.5bath 7Qbed",
+    "capacity": "14 guests / 4 bedrooms / 6 beds / 5 baths",
+    "guests": 14,
+    "bedrooms": 4,
+    "baths": 5,
+    "rating": 5,
+    "reviews": 6,
+    "price": 26686,
+    "airbnb": "https://www.airbnb.com/rooms/1193052529205928042",
+    "walking_cluster": false,
+    "large_group": true,
+    "hero_image": "assets/galleries/2402-wilkshire-dr/01-1400.webp",
+    "thumb_image": "assets/galleries/2402-wilkshire-dr/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2402-wilkshire-dr/01-800.webp",
+        "hero": "assets/galleries/2402-wilkshire-dr/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2402-wilkshire-dr/02-800.webp",
+        "hero": "assets/galleries/2402-wilkshire-dr/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2402-wilkshire-dr/03-800.webp",
+        "hero": "assets/galleries/2402-wilkshire-dr/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2402-wilkshire-dr/04-800.webp",
+        "hero": "assets/galleries/2402-wilkshire-dr/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2402-wilkshire-dr/05-800.webp",
+        "hero": "assets/galleries/2402-wilkshire-dr/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2402-wilkshire-dr/06-800.webp",
+        "hero": "assets/galleries/2402-wilkshire-dr/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2402-wilkshire-dr/07-800.webp",
+        "hero": "assets/galleries/2402-wilkshire-dr/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2402-wilkshire-dr/08-800.webp",
+        "hero": "assets/galleries/2402-wilkshire-dr/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "12+ guests",
+      "Near course",
+      "\u2605 5"
+    ],
+    "lat": 33.50660358636364,
+    "lon": -82.01756192727274,
+    "geocoded_as": null,
+    "lat_estimated": true
+  },
+  {
+    "address": "2714 Ingleside Dr",
+    "slug": "2714-ingleside-dr",
+    "listing_id": "8888-2714I",
+    "title": "Masters Golf 10B4B Ingleside 8888",
+    "capacity": "",
+    "guests": 14,
+    "bedrooms": 10,
+    "baths": 4,
+    "rating": 4.71,
+    "reviews": 76,
+    "price": 25477,
+    "airbnb": "https://www.airbnb.com/rooms/18016380",
+    "walking_cluster": false,
+    "large_group": true,
+    "hero_image": "assets/galleries/2714-ingleside-dr/01-1400.webp",
+    "thumb_image": "assets/galleries/2714-ingleside-dr/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2714-ingleside-dr/01-800.webp",
+        "hero": "assets/galleries/2714-ingleside-dr/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2714-ingleside-dr/02-800.webp",
+        "hero": "assets/galleries/2714-ingleside-dr/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2714-ingleside-dr/03-800.webp",
+        "hero": "assets/galleries/2714-ingleside-dr/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2714-ingleside-dr/04-800.webp",
+        "hero": "assets/galleries/2714-ingleside-dr/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2714-ingleside-dr/05-800.webp",
+        "hero": "assets/galleries/2714-ingleside-dr/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2714-ingleside-dr/06-800.webp",
+        "hero": "assets/galleries/2714-ingleside-dr/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2714-ingleside-dr/07-800.webp",
+        "hero": "assets/galleries/2714-ingleside-dr/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2714-ingleside-dr/08-800.webp",
+        "hero": "assets/galleries/2714-ingleside-dr/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "12+ guests",
+      "Near course",
+      "\u2605 4.71"
+    ],
+    "lat": 33.494723,
+    "lon": -82.0333324,
+    "geocoded_as": null,
+    "miles_to_angc": 0.87
+  },
+  {
+    "address": "2341 Woodbine Rd",
+    "slug": "2341-woodbine-rd",
+    "listing_id": "8888-2341W",
+    "title": "Masters Golf 3B3B Woodbine & Washington rd",
+    "capacity": "6 guests / 3 bedrooms / 3 beds / 3 baths",
+    "guests": 6,
+    "bedrooms": 3,
+    "baths": 3,
+    "rating": 4.88,
+    "reviews": 8,
+    "price": 22874,
+    "airbnb": "https://www.airbnb.com/rooms/1072417293252023522",
+    "walking_cluster": false,
+    "large_group": false,
+    "hero_image": "assets/galleries/2341-woodbine-rd/01-1400.webp",
+    "thumb_image": "assets/galleries/2341-woodbine-rd/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2341-woodbine-rd/01-800.webp",
+        "hero": "assets/galleries/2341-woodbine-rd/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2341-woodbine-rd/02-800.webp",
+        "hero": "assets/galleries/2341-woodbine-rd/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2341-woodbine-rd/03-800.webp",
+        "hero": "assets/galleries/2341-woodbine-rd/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2341-woodbine-rd/04-800.webp",
+        "hero": "assets/galleries/2341-woodbine-rd/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2341-woodbine-rd/05-800.webp",
+        "hero": "assets/galleries/2341-woodbine-rd/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2341-woodbine-rd/06-800.webp",
+        "hero": "assets/galleries/2341-woodbine-rd/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2341-woodbine-rd/07-800.webp",
+        "hero": "assets/galleries/2341-woodbine-rd/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2341-woodbine-rd/08-800.webp",
+        "hero": "assets/galleries/2341-woodbine-rd/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Near course",
+      "\u2605 4.88"
+    ],
+    "lat": 33.4994385,
+    "lon": -82.0101595,
+    "geocoded_as": null,
+    "miles_to_angc": 0.68
+  },
+  {
+    "address": "1113 Eisenhower Ct S",
+    "slug": "1113-eisenhower-ct-s",
+    "listing_id": "8888-1113E",
+    "title": "Masters walk from Eisenhower 8888",
+    "capacity": "14 guests / 5 bedrooms / 6 beds / 4 baths",
+    "guests": 14,
+    "bedrooms": 5,
+    "baths": 4,
+    "rating": 5,
+    "reviews": 4,
+    "price": null,
+    "airbnb": "https://www.airbnb.com/rooms/1315522206191485570",
+    "walking_cluster": true,
+    "large_group": true,
+    "hero_image": "assets/galleries/1113-eisenhower-ct-s/01-1400.webp",
+    "thumb_image": "assets/galleries/1113-eisenhower-ct-s/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/1113-eisenhower-ct-s/01-800.webp",
+        "hero": "assets/galleries/1113-eisenhower-ct-s/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1113-eisenhower-ct-s/02-800.webp",
+        "hero": "assets/galleries/1113-eisenhower-ct-s/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1113-eisenhower-ct-s/03-800.webp",
+        "hero": "assets/galleries/1113-eisenhower-ct-s/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1113-eisenhower-ct-s/04-800.webp",
+        "hero": "assets/galleries/1113-eisenhower-ct-s/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1113-eisenhower-ct-s/05-800.webp",
+        "hero": "assets/galleries/1113-eisenhower-ct-s/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1113-eisenhower-ct-s/06-800.webp",
+        "hero": "assets/galleries/1113-eisenhower-ct-s/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1113-eisenhower-ct-s/07-800.webp",
+        "hero": "assets/galleries/1113-eisenhower-ct-s/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/1113-eisenhower-ct-s/08-800.webp",
+        "hero": "assets/galleries/1113-eisenhower-ct-s/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "12+ guests",
+      "Near course",
+      "\u2605 5"
+    ],
+    "lat": 33.5094235,
+    "lon": -82.0137103,
+    "geocoded_as": null,
+    "miles_to_angc": 0.66
+  },
+  {
+    "address": "2423 Apricot Ln",
+    "slug": "2423-apricot-ln",
+    "listing_id": "8888-2423A",
+    "title": "Plenty of space for Masters 10B6B 8888Apricot",
+    "capacity": "14 guests / 6 bedrooms / 0 beds / 6 baths",
+    "guests": 14,
+    "bedrooms": 6,
+    "baths": 6,
+    "rating": 4.97,
+    "reviews": 62,
+    "price": null,
+    "airbnb": "https://www.airbnb.com/rooms/1008039951165887034",
+    "walking_cluster": true,
+    "large_group": true,
+    "hero_image": "assets/galleries/2423-apricot-ln/01-1400.webp",
+    "thumb_image": "assets/galleries/2423-apricot-ln/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2423-apricot-ln/01-800.webp",
+        "hero": "assets/galleries/2423-apricot-ln/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2423-apricot-ln/02-800.webp",
+        "hero": "assets/galleries/2423-apricot-ln/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2423-apricot-ln/03-800.webp",
+        "hero": "assets/galleries/2423-apricot-ln/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2423-apricot-ln/04-800.webp",
+        "hero": "assets/galleries/2423-apricot-ln/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2423-apricot-ln/05-800.webp",
+        "hero": "assets/galleries/2423-apricot-ln/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2423-apricot-ln/06-800.webp",
+        "hero": "assets/galleries/2423-apricot-ln/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2423-apricot-ln/07-800.webp",
+        "hero": "assets/galleries/2423-apricot-ln/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2423-apricot-ln/08-800.webp",
+        "hero": "assets/galleries/2423-apricot-ln/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "12+ guests",
+      "Near course",
+      "\u2605 4.97"
+    ],
+    "lat": 33.5067735,
+    "lon": -82.010703,
+    "geocoded_as": null,
+    "miles_to_angc": 0.69
+  },
+  {
+    "address": "2505 Gaines Ct N",
+    "slug": "2505-gaines-ct-n",
+    "listing_id": "8888-2505G",
+    "title": "7B5B Masters Golf 8888 Gaines Ct & Eisenhower",
+    "capacity": "14 guests / 5 bedrooms / 7 beds / 5 baths",
+    "guests": 14,
+    "bedrooms": 5,
+    "baths": 5,
+    "rating": 4.73,
+    "reviews": 26,
+    "price": null,
+    "airbnb": "https://www.airbnb.com/rooms/920445652569039773",
+    "walking_cluster": true,
+    "large_group": true,
+    "hero_image": "assets/galleries/2505-gaines-ct-n/01-1400.webp",
+    "thumb_image": "assets/galleries/2505-gaines-ct-n/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2505-gaines-ct-n/01-800.webp",
+        "hero": "assets/galleries/2505-gaines-ct-n/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2505-gaines-ct-n/02-800.webp",
+        "hero": "assets/galleries/2505-gaines-ct-n/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2505-gaines-ct-n/03-800.webp",
+        "hero": "assets/galleries/2505-gaines-ct-n/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2505-gaines-ct-n/04-800.webp",
+        "hero": "assets/galleries/2505-gaines-ct-n/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2505-gaines-ct-n/05-800.webp",
+        "hero": "assets/galleries/2505-gaines-ct-n/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2505-gaines-ct-n/06-800.webp",
+        "hero": "assets/galleries/2505-gaines-ct-n/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2505-gaines-ct-n/07-800.webp",
+        "hero": "assets/galleries/2505-gaines-ct-n/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2505-gaines-ct-n/08-800.webp",
+        "hero": "assets/galleries/2505-gaines-ct-n/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "12+ guests",
+      "Near course",
+      "\u2605 4.73"
+    ],
+    "lat": 33.5078505,
+    "lon": -82.0146463,
+    "geocoded_as": null,
+    "miles_to_angc": 0.54
+  },
+  {
+    "address": "2702 Margate Dr",
+    "slug": "2702-margate-dr",
+    "listing_id": "8888-2702M",
+    "title": "7B4B Walk Berckmans Masters Margate 8888",
+    "capacity": "14 guests / 4 bedrooms / 7 beds / 4 baths",
+    "guests": 14,
+    "bedrooms": 4,
+    "baths": 4,
+    "rating": 4.95,
+    "reviews": 73,
+    "price": null,
+    "airbnb": "https://www.airbnb.com/rooms/18162774",
+    "walking_cluster": true,
+    "large_group": true,
+    "hero_image": "assets/galleries/2702-margate-dr/01-1400.webp",
+    "thumb_image": "assets/galleries/2702-margate-dr/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2702-margate-dr/01-800.webp",
+        "hero": "assets/galleries/2702-margate-dr/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2702-margate-dr/02-800.webp",
+        "hero": "assets/galleries/2702-margate-dr/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2702-margate-dr/03-800.webp",
+        "hero": "assets/galleries/2702-margate-dr/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2702-margate-dr/04-800.webp",
+        "hero": "assets/galleries/2702-margate-dr/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2702-margate-dr/05-800.webp",
+        "hero": "assets/galleries/2702-margate-dr/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2702-margate-dr/06-800.webp",
+        "hero": "assets/galleries/2702-margate-dr/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2702-margate-dr/07-800.webp",
+        "hero": "assets/galleries/2702-margate-dr/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2702-margate-dr/08-800.webp",
+        "hero": "assets/galleries/2702-margate-dr/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "12+ guests",
+      "Near course",
+      "\u2605 4.95"
+    ],
+    "lat": 33.4973205,
+    "lon": -82.0321902,
+    "geocoded_as": null,
+    "miles_to_angc": 0.71
+  },
+  {
+    "address": "2706 Wicklow Dr",
+    "slug": "2706-wicklow-dr",
+    "listing_id": "8888-2706W",
+    "title": "Masters Golf 7B4B Wicklow Berckmans - 8888",
+    "capacity": "14 guests / 4 bedrooms / 7 beds / 4 baths",
+    "guests": 14,
+    "bedrooms": 4,
+    "baths": 4,
+    "rating": 4.97,
+    "reviews": 99,
+    "price": null,
+    "airbnb": "https://www.airbnb.com/rooms/46413996",
+    "walking_cluster": false,
+    "large_group": true,
+    "hero_image": "assets/galleries/2706-wicklow-dr/03-1400.webp",
+    "thumb_image": "assets/galleries/2706-wicklow-dr/03-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2706-wicklow-dr/03-800.webp",
+        "hero": "assets/galleries/2706-wicklow-dr/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2706-wicklow-dr/01-800.webp",
+        "hero": "assets/galleries/2706-wicklow-dr/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2706-wicklow-dr/02-800.webp",
+        "hero": "assets/galleries/2706-wicklow-dr/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2706-wicklow-dr/04-800.webp",
+        "hero": "assets/galleries/2706-wicklow-dr/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2706-wicklow-dr/05-800.webp",
+        "hero": "assets/galleries/2706-wicklow-dr/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2706-wicklow-dr/06-800.webp",
+        "hero": "assets/galleries/2706-wicklow-dr/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2706-wicklow-dr/07-800.webp",
+        "hero": "assets/galleries/2706-wicklow-dr/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2706-wicklow-dr/08-800.webp",
+        "hero": "assets/galleries/2706-wicklow-dr/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "12+ guests",
+      "Near course",
+      "\u2605 4.97"
+    ],
+    "lat": 33.496941,
+    "lon": -82.032257,
+    "geocoded_as": null,
+    "miles_to_angc": 0.73
+  },
+  {
+    "address": "2716 Margate Dr",
+    "slug": "2716-margate-dr",
+    "listing_id": "8888-2716M",
+    "title": "9B5B Berckmans 5 min walk Masters Margate",
+    "capacity": "15 guests / 7 bedrooms / 9 beds / 5 baths",
+    "guests": 15,
+    "bedrooms": 7,
+    "baths": 5,
+    "rating": 4.9,
+    "reviews": 58,
+    "price": null,
+    "airbnb": "https://www.airbnb.com/rooms/990431824168211851",
+    "walking_cluster": true,
+    "large_group": true,
+    "hero_image": "assets/galleries/2716-margate-dr/01-1400.webp",
+    "thumb_image": "assets/galleries/2716-margate-dr/01-800.webp",
+    "images": [
+      {
+        "thumb": "assets/galleries/2716-margate-dr/01-800.webp",
+        "hero": "assets/galleries/2716-margate-dr/01-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2716-margate-dr/02-800.webp",
+        "hero": "assets/galleries/2716-margate-dr/02-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2716-margate-dr/03-800.webp",
+        "hero": "assets/galleries/2716-margate-dr/03-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2716-margate-dr/04-800.webp",
+        "hero": "assets/galleries/2716-margate-dr/04-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2716-margate-dr/05-800.webp",
+        "hero": "assets/galleries/2716-margate-dr/05-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2716-margate-dr/06-800.webp",
+        "hero": "assets/galleries/2716-margate-dr/06-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2716-margate-dr/07-800.webp",
+        "hero": "assets/galleries/2716-margate-dr/07-1400.webp"
+      },
+      {
+        "thumb": "assets/galleries/2716-margate-dr/08-800.webp",
+        "hero": "assets/galleries/2716-margate-dr/08-1400.webp"
+      }
+    ],
+    "image_count": 8,
+    "tags": [
+      "Walking cluster",
+      "12+ guests",
+      "Near course",
+      "\u2605 4.9"
+    ],
+    "lat": 33.4987614,
+    "lon": -82.0325744,
+    "geocoded_as": null,
+    "miles_to_angc": 0.69
+  }
+]
