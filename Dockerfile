@@ -6,7 +6,7 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
 
 WORKDIR /app
 
-# Install libpq5 for PostgreSQL and curl for container health checks
+# Install libpq5 for PostgreSQL and curl for Coolify/Docker health checks
 RUN apt-get update && apt-get install -y --no-install-recommends \
     libpq5 \
     curl \
@@ -22,9 +22,8 @@ USER appuser
 
 EXPOSE 8000
 
-# Docker healthcheck pinging the /health endpoint internally
-HEALTHCHECK --interval=15s --timeout=5s --start-period=20s --retries=3 \
+# Explicitly use curl to target the working /health endpoint
+HEALTHCHECK --interval=10s --timeout=5s --start-period=15s --retries=3 \
   CMD curl -f http://localhost:8000/health || exit 1
 
-# Run migrations, then boot gunicorn with uvicorn workers
 CMD ["sh", "-c", "alembic upgrade head && gunicorn app.main:app -k uvicorn.workers.UvicornWorker -w ${WEB_CONCURRENCY:-2} -b 0.0.0.0:8000 --access-logfile - --error-logfile -"]
