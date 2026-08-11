@@ -39,3 +39,20 @@ class InquiryOut(BaseModel):
 
 class InquiryStatusUpdate(BaseModel):
     status: InquiryStatus
+
+
+class InquiryUpdate(BaseModel):
+    """Full PATCH — lets the operator correct a typo'd email or add call notes
+    without deleting and re-creating the lead."""
+
+    name: str | None = Field(default=None, min_length=1, max_length=255)
+    company: str | None = None
+    email: EmailStr | None = None
+    phone: str | None = None
+    group_size: int | None = Field(default=None, ge=1, le=500)
+    event_week: EventWeek | None = None
+    check_in: date | None = None
+    check_out: date | None = None
+    property_slug: str | None = None
+    notes: str | None = Field(default=None, max_length=4000)
+    status: InquiryStatus | None = None

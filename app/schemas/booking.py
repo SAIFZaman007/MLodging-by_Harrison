@@ -1,5 +1,5 @@
 import uuid
-from datetime import date
+from datetime import date, datetime
 
 from pydantic import BaseModel, ConfigDict, Field, model_validator
 
@@ -13,7 +13,7 @@ class BookingBase(BaseModel):
     guest_name: str | None = None
     guest_email: str | None = None
     guest_phone: str | None = None
-    guests_count: int | None = None
+    guests_count: int | None = Field(default=None, ge=1, le=100)
     notes: str | None = None
 
     @model_validator(mode="after")
@@ -29,6 +29,29 @@ class BookingCreate(BookingBase):
     status: BookingStatus = BookingStatus.PENDING
 
 
+class BookingUpdate(BaseModel):
+    """PATCH semantics. Dates are validated as a pair only when both are present;
+    the router re-validates against the persisted row before saving."""
+
+    property_id: uuid.UUID | None = None
+    check_in: date | None = None
+    check_out: date | None = None
+    source: BookingSource | None = None
+    status: BookingStatus | None = None
+    event_week: EventWeek | None = None
+    guest_name: str | None = None
+    guest_email: str | None = None
+    guest_phone: str | None = None
+    guests_count: int | None = Field(default=None, ge=1, le=100)
+    notes: str | None = None
+
+    @model_validator(mode="after")
+    def check_dates(self) -> "BookingUpdate":
+        if self.check_in and self.check_out and self.check_out <= self.check_in:
+            raise ValueError("check_out must be after check_in")
+        return self
+
+
 class BookingOut(BookingBase):
     model_config = ConfigDict(from_attributes=True)
 
@@ -36,6 +59,8 @@ class BookingOut(BookingBase):
     property_id: uuid.UUID
     source: BookingSource
     status: BookingStatus
+    external_uid: str | None = None
+    created_at: datetime
 
 
 class AvailabilityRequest(BaseModel):
@@ -51,6 +76,7 @@ class AvailabilityResponse(BaseModel):
 
 class BlockedDateRange(BaseModel):
     """A read-only, calendar-friendly view of an occupied range for the public calendar UI."""
+
     model_config = ConfigDict(from_attributes=True)
 
     check_in: date
