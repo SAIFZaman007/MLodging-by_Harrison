@@ -6,8 +6,10 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
 
 WORKDIR /app
 
-# System deps for psycopg (binary wheel usually suffices, libpq kept as a safety net)
-RUN apt-get update && apt-get install -y --no-install-recommends libpq5 \
+# Install libpq5 for PostgreSQL and curl for container health checks
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libpq5 \
+    curl \
     && rm -rf /var/lib/apt/lists/*
 
 COPY requirements.txt .
@@ -20,6 +22,9 @@ USER appuser
 
 EXPOSE 8000
 
-# Run migrations, then boot gunicorn with uvicorn workers. Swap $WEB_CONCURRENCY
-# to match your host's CPU count (Railway/Render/Fly all expose this pattern).
+# Docker healthcheck pinging the /health endpoint internally
+HEALTHCHECK --interval=15s --timeout=5s --start-period=20s --retries=3 \
+  CMD curl -f http://localhost:8000/health || exit 1
+
+# Run migrations, then boot gunicorn with uvicorn workers
 CMD ["sh", "-c", "alembic upgrade head && gunicorn app.main:app -k uvicorn.workers.UvicornWorker -w ${WEB_CONCURRENCY:-2} -b 0.0.0.0:8000 --access-logfile - --error-logfile -"]
